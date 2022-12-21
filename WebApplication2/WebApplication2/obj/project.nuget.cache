@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MdSf+l6//9C3ozYWML6m12KTN3XFoJaueRcBK46QNDky1Hn65+n8ikChWSr+1AC9468KCEI6eBYAJhYVek3kPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\WebApplication2\\ShoppingApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay.chaniyara\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

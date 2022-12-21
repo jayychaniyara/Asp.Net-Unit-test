@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\WebApplication2\\ShoppingApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Helper\\Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Helper\\Helper.csproj",
+        "projectName": "Helper",
+        "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Helper\\Helper.csproj",
+        "packagesPath": "C:\\Users\\jay.chaniyara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jay.chaniyara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.BLL\\Shopping.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.BLL\\Shopping.BLL.csproj",
+        "projectName": "Shopping.BLL",
+        "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.BLL\\Shopping.BLL.csproj",
+        "packagesPath": "C:\\Users\\jay.chaniyara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jay.chaniyara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.DAL\\Shopping.DAL.csproj": {
+                "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.DAL\\Shopping.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.DAL\\Shopping.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.DAL\\Shopping.DAL.csproj",
+        "projectName": "Shopping.DAL",
+        "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.DAL\\Shopping.DAL.csproj",
+        "packagesPath": "C:\\Users\\jay.chaniyara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jay.chaniyara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.Lib\\Shopping.Lib.csproj": {
+                "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.Lib\\Shopping.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.Lib\\Shopping.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.Lib\\Shopping.Lib.csproj",
+        "projectName": "Shopping.Lib",
+        "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.Lib\\Shopping.Lib.csproj",
+        "packagesPath": "C:\\Users\\jay.chaniyara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jay.chaniyara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\WebApplication2\\ShoppingApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\WebApplication2\\ShoppingApplication.csproj",
+        "projectName": "ShoppingApplication",
+        "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\WebApplication2\\ShoppingApplication.csproj",
+        "packagesPath": "C:\\Users\\jay.chaniyara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\WebApplication2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jay.chaniyara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Helper\\Helper.csproj": {
+                "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Helper\\Helper.csproj"
+              },
+              "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.BLL\\Shopping.BLL.csproj": {
+                "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.BLL\\Shopping.BLL.csproj"
+              },
+              "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.DAL\\Shopping.DAL.csproj": {
+                "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.DAL\\Shopping.DAL.csproj"
+              },
+              "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.Lib\\Shopping.Lib.csproj": {
+                "projectPath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.Lib\\Shopping.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

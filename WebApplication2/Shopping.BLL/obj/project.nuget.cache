@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A6WDHz9g2J9iO+jtyh9YsdmOAxvSsfrzjR6aOASo8OcJKPGUJVdND1v2Z5UO1T7TD4QvGkR3NhE6h5tICjPZEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jay.chaniyara\\Documents\\Project\\VadodaraDevPractices\\WebApplication2\\Shopping.BLL\\Shopping.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay.chaniyara\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,312 @@
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.exe
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.deps.json
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.json
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.dev.json
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ref\ShoppingApplication.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.AssemblyReference.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfoInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfo.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CoreCompileInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\ShoppingApplication.StaticWebAssets.Manifest.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\ShoppingApplication.StaticWebAssets.xml
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\ShoppingApplication.styles.css
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.input.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.output.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorCoreGenerate.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Thanks.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Thanks.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CopyComplete
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\ShoppingApplication.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.genruntimeconfig.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.exe
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.dev.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ref\ShoppingApplication.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\ShoppingApplication.StaticWebAssets.Manifest.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\ShoppingApplication.StaticWebAssets.xml
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\ShoppingApplication.styles.css
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.input.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.output.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorCoreGenerate.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Thanks.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Thanks.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CopyComplete
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\ShoppingApplication.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.genruntimeconfig.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.StaticWebAssets.xml
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.exe
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.dev.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\ShoppingApplication.styles.css
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\ShoppingApplication.StaticWebAssets.Manifest.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.input.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.output.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorCoreGenerate.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Thanks.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Thanks.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CopyComplete
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\refint\ShoppingApplication.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.genruntimeconfig.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\ShoppingApplication.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.StaticWebAssets.xml
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.exe
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.deps.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.dev.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\ShoppingApplication.styles.css
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\ShoppingApplication.StaticWebAssets.Manifest.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.input.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.output.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorCoreGenerate.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Thanks.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Thanks.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CopyComplete
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\refint\ShoppingApplication.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.genruntimeconfig.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\ShoppingApplication.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.StaticWebAssets.xml
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.exe
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.deps.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.dev.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\ShoppingApplication.styles.css
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\ShoppingApplication.StaticWebAssets.Manifest.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.input.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.output.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorCoreGenerate.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Thanks.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Thanks.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CopyComplete
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\refint\ShoppingApplication.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.genruntimeconfig.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\ShoppingApplication.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.Development.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\appsettings.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.StaticWebAssets.xml
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.exe
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.deps.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.runtimeconfig.dev.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Helper.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.AssemblyReference.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfoInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.AssemblyInfo.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CoreCompileInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorAssemblyInfo.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\scopedcss\bundle\ShoppingApplication.styles.css
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\ShoppingApplication.StaticWebAssets.Manifest.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.input.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.TagHelpers.output.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorCoreGenerate.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Product\Thanks.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Register\Thanks.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.RazorTargetAssemblyInfo.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.Views.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.csproj.CopyComplete
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\refint\ShoppingApplication.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ShoppingApplication.genruntimeconfig.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\ShoppingApplication.dll

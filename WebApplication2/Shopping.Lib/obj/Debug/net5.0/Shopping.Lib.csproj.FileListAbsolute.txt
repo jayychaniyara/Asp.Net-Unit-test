@@ -1,0 +1,72 @@
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.deps.json
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\ref\Shopping.Lib.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.AssemblyReference.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfoInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfo.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.CoreCompileInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\ref\Shopping.Lib.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\ref\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\ref\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\refint\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\ref\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.deps.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\refint\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\ref\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.deps.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\refint\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\ref\Shopping.Lib.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.deps.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.AssemblyReference.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfoInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.AssemblyInfo.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.csproj.CoreCompileInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\refint\Shopping.Lib.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\Shopping.Lib.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.Lib\obj\Debug\net5.0\ref\Shopping.Lib.dll

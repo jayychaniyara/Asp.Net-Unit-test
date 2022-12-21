@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Shopping.Lib.ShoppingProduct>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .card-details {
+        padding: 15px;
+        width: 100%;
+    }
+
+    .block {
+        height: 90%;
+        width: 100%;
+        border: 1px solid #D2D2D2;
+        padding: 5px;
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Civica Shopping Web Application</h1>
+    <p>Please click on "View details" to navigate to product details page.</p>
+</div>
+
+@foreach (var item in Model)
+{
+    <div class="card card-details">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="block">
+                    <h1 class="text-center">@Html.DisplayFor(modelItem => item.Id)</h1>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h5>@Html.DisplayFor(modelItem => item.Name)</h5>
+                <p>@Html.DisplayFor(modelItem => item.Description)</p>
+            </div>
+        </div>
+        <div class="justify-content-between d-flex ">
+            <p class="mb-1">Rs.@Html.DisplayFor(modelItem => item.Price)</p>
+            <span>
+                @Html.ActionLink("View details", "Index", "Product", new { id = item.Id })
+            </span>
+        </div>
+    </div>
+}

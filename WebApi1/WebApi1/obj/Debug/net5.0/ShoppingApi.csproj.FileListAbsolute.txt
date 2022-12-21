@@ -1,0 +1,180 @@
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.Development.json
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.json
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.exe
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.deps.json
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ref\ShoppingApi.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.pdb
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.xml
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ref\ShoppingApi.dll
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.pdb
+C:\civica-training\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.exe
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ref\ShoppingApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.xml
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ref\ShoppingApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.StaticWebAssets.xml
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.exe
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\refint\ShoppingApi.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ref\ShoppingApi.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.StaticWebAssets.xml
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.exe
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.deps.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\refint\ShoppingApi.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ref\ShoppingApi.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.StaticWebAssets.xml
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.exe
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.deps.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\refint\ShoppingApi.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ref\ShoppingApi.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.Development.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\appsettings.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.StaticWebAssets.xml
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.exe
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.deps.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.runtimeconfig.dev.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\ShoppingApi.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.AssemblyReference.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfoInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.AssemblyInfo.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CoreCompileInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\scopedcss\bundle\ShoppingApi.styles.css
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\staticwebassets\ShoppingApi.StaticWebAssets.Manifest.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.RazorTargetAssemblyInfo.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.csproj.CopyComplete
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\refint\ShoppingApi.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ShoppingApi.genruntimeconfig.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApi1\WebApi1\obj\Debug\net5.0\ref\ShoppingApi.dll

@@ -1,0 +1,57 @@
+﻿@model UserDetails
+@{
+    ViewData["Title"] = "Register to get offers";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to register yourself to get exciting offers and promo codes.</p>
+
+<h2>Register</h2>
+<form method="post">
+    <p>
+        <label asp-for="Salutation">Salutation:</label>
+        <select asp-for="Salutation">
+            <option value="Mr">Mr</option>
+            <option value="Ms">Ms</option>
+        </select>
+        <span asp-validation-for="Salutation"></span>
+    </p>
+    <p>
+        <label asp-for="Name">Name:</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </p>
+    <p>
+        <label asp-for="Age">Age:#</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age"></span>
+    </p>
+    <p>
+        <label asp-for="DateOfBirth">Date Of Birth:#</label>
+        <input asp-for="DateOfBirth" type="date" />
+        <span asp-validation-for="DateOfBirth"></span>
+    </p>
+    <p>
+        <label asp-for="Gender">Gender:</label>
+        <input type="radio" asp-for="Gender" value="M" />Male
+        <input type="radio" asp-for="Gender" value="F" />Female
+        <span asp-validation-for="Gender"></span>
+    </p>
+    <p>
+        <label asp-for="Email">Email:</label>
+        <input type="email" asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </p>
+    <p>
+        <label asp-for="Phone">Phone:</label>
+        <input type="tel" asp-for="Phone" />
+        <span asp-validation-for="Phone"></span>
+    </p>
+    @*<p>
+        <input type="checkbox" name="IsAgreedToBeContacted" value="true" />
+        <label asp-for="IsAgreedToBeContacted"> I agree to be contacted by Civica.</label>
+        <span asp-validation-for="IsAgreedToBeContacted"></span>
+    </p>*@
+    <p># means either Age or Date of Birth is required.</p>
+    <p><button type="submit">Submit</button></p>
+</form>

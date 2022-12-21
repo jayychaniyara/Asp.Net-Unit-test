@@ -1,0 +1,172 @@
+﻿@model Shopping.Lib.ShoppingProduct
+@{
+    ViewData["Title"] = "Product Details Page";
+}
+
+<style>
+    .card-details {
+        padding: 15px;
+        width: 100%;
+    }
+
+    .block {
+        height: 90%;
+        width: 100%;
+        border: 1px solid #D2D2D2;
+        padding: 5px;
+    }
+
+    .input-text.qty {
+        width: 35px;
+        height: 33px;
+        text-align: center;
+        border: 1px solid #D2D2D2;
+        vertical-align: top;
+    }
+
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+
+    .btn {
+        padding: 0rem 1.5rem;
+        min-height: 34px;
+        background-color: #009ca6;
+        color: #ffffff;
+        border: 1px solid #009ca6;
+        border-radius: 2px;
+        line-height: 10px;
+    }
+
+    .btn:hover {
+        background-color: #276875;
+        border: 1px solid #276875;
+        color: #ffffff;
+    }
+
+    .valid_msg {
+        color: red;
+    }
+
+    .w-15 {
+        width: 15%;
+    }
+</style>
+
+<form asp-controller="Product" asp-action="Index" method="post">
+    <div class="card card-details">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="block">
+                    <h1 class="text-center">@Html.DisplayFor(m => m.Id)</h1>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <h1 class="display-4">@Html.DisplayFor(m => m.Name)</h1>
+                <p>
+                    @Html.DisplayFor(m => m.Description)
+                </p>
+            </div>
+        </div>
+        <table class="table table-responsive border">
+            <tbody>
+                <tr class="border-bottom">
+                    <td class="border-0 w-15">Price:</td>
+                    <td class="border-0 w-50">Rs.@Html.DisplayFor(m => m.Price)</td>
+                    <td class="border-0">Cost:</td>
+                    <td class="border-0 w-15 text-right">Rs.@Html.DisplayFor(m => m.FinalPrice)</td>
+                </tr>
+                <tr class="border-bottom">
+                    <td class="border-0">Shipping Charges:</td>
+                    <td class="border-0">Rs.@Html.DisplayFor(m => m.ShippingCharge)</td>
+                    <td class="border-0">(Add) Shipping Charges:</td>
+                    <td class="border-0 text-right">+ Rs.@Html.DisplayFor(m => m.ShippingCharge)</td>
+                </tr>
+                <tr class="border-bottom">
+                    <td class="border-0">Available Quantity:</td>
+                    <td class="border-0">@Html.DisplayFor(m => m.Quantity)</td>
+                    <td class="border-0">(Less) Discount:</td>
+                    <td class="border-0 text-right">- Rs.@Html.DisplayFor(m => m.DiscountAmount)</td>
+                </tr>
+                <tr class="">
+                    <td class="border-0"></td>
+                    <td class="border-0"></td>
+                    <td class="border-0"><b>You have to pay:</b></td>
+                    <td class="border-0 text-right"><b>Rs.@Html.DisplayFor(m => m.FinalCost)</b></td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="quantity buttons_added mb-3">
+            <label asp-for="PurchasedQuantity">Quantity</label>
+            <input asp-for="PurchasedQuantity" />
+            <button class="btn" type="submit">Buy</button>
+            <span class="valid_msg" asp-validation-for="PurchasedQuantity"></span>
+        </div>
+        <div class="mb-3">
+            @if (Model.IsMerchantDiscountAllowed)
+            {
+                @if (Model.FestivalDiscount != null)
+                {
+                    if (Model.FestivalDiscount.DiscountBy == Shopping.Lib.DiscountOption.Amount)
+                    {
+                        <p class="mb-1">
+                            Festival Discount of <b>FLAT Rs. @Html.DisplayFor(m => m.FestivalDiscount.DiscountAmount) OFF </b>
+                            on Minimum Purchase of Rs.
+                            @Html.DisplayFor(m => m.FestivalDiscount.MinimumProductValue)
+                        </p>
+                    }
+                    else
+                    {
+                        <p class="mb-1">
+                            Festival Discount of
+                            <b>
+                                @Html.DisplayFor(m => m.FestivalDiscount.DiscountPercentage)% OFF UPTO
+                                Rs. @Html.DisplayFor(m => m.FestivalDiscount.MaximumDiscount)
+                            </b> on Minimum Purchase of Rs.
+                            @Html.DisplayFor(m => m.FestivalDiscount.MinimumProductValue)
+                        </p>
+                    }
+
+                    <input type="hidden" asp-for="FestivalDiscount" />
+                    <input type="hidden" asp-for="FestivalDiscount.DiscountAmount" />
+                    <input type="hidden" asp-for="FestivalDiscount.DiscountBy" />
+                    <input type="hidden" asp-for="FestivalDiscount.DiscountBy" />
+                    <input type="hidden" asp-for="FestivalDiscount.DiscountPercentage" />
+                    <input type="hidden" asp-for="FestivalDiscount.MaximumDiscount" />
+                    <input type="hidden" asp-for="FestivalDiscount.MinimumProductValue" />
+                }
+            }
+
+            @if (Model.PromoCodeDiscount != null)
+            {
+                <input type="hidden" asp-for="PromoCodeDiscount" />
+                <input type="hidden" asp-for="PromoCodeDiscount.DiscountAmount" />
+                <input type="hidden" asp-for="PromoCodeDiscount.DiscountBy" />
+                <input type="hidden" asp-for="PromoCodeDiscount.DiscountPercentage" />
+                <input type="hidden" asp-for="PromoCodeDiscount.MaximumDiscount" />
+                <input type="hidden" asp-for="PromoCodeDiscount.MinimumProductValue" />
+            }
+        </div>
+        @if (ViewBag.IsVisible ?? false)
+        {
+            <h3>
+                You have to pay: Rs.<b>@Html.DisplayFor(m => m.FinalCost)</b>
+                <br />
+                <a asp-action="Thanks">CONFIRM</a>
+            </h3>
+        }
+
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="Name" />
+        <input type="hidden" asp-for="Description" />
+        <input type="hidden" asp-for="Price" />
+        <input type="hidden" asp-for="Quantity" />
+        <input type="hidden" asp-for="ShippingCharge" />
+        <input type="hidden" asp-for="IsMerchantDiscountAllowed" />
+        <input type="hidden" asp-for="DiscountAmount" />
+        <input type="hidden" asp-for="FinalPrice" />
+        <input type="hidden" asp-for="FinalCost" />
+    </div>
+</form>

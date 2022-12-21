@@ -1,0 +1,72 @@
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\ref\Helper.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\ref\Helper.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\ref\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\ref\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\refint\Helper.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\ref\Helper.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\refint\Helper.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\ref\Helper.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\refint\Helper.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\ref\Helper.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\bin\Debug\net5.0\Helper.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\refint\Helper.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\Helper.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Helper\obj\Debug\net5.0\ref\Helper.dll

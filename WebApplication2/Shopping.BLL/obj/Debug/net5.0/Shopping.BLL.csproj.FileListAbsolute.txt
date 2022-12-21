@@ -1,0 +1,102 @@
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.deps.json
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\ref\Shopping.BLL.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.AssemblyReference.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfoInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfo.cs
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CoreCompileInputs.cache
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CopyComplete
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\ref\Shopping.BLL.dll
+C:\civica-training\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\ref\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CopyComplete
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\ref\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices - Copy\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.deps.json
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.AssemblyReference.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfoInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfo.cs
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CoreCompileInputs.cache
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CopyComplete
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\refint\Shopping.BLL.dll
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\kavit.trivedi\Desktop\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\ref\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.deps.json
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CopyComplete
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\refint\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\Aditi.Patel\source\repos\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\ref\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.deps.json
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.AssemblyReference.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfoInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfo.cs
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CopyComplete
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\refint\Shopping.BLL.dll
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.pdb
+C:\Users\Aditi.Patel\source\repos\Unit_Testing\VadodaraDevPractices\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\ref\Shopping.BLL.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.deps.json
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.BLL.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.DAL.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\bin\Debug\net5.0\Shopping.Lib.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.AssemblyReference.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfoInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.AssemblyInfo.cs
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CoreCompileInputs.cache
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.csproj.CopyComplete
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\refint\Shopping.BLL.dll
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\Shopping.BLL.pdb
+C:\Repos\Horizons-Jul22\VadodaraDevPractices\WebApplication2\Shopping.BLL\obj\Debug\net5.0\ref\Shopping.BLL.dll
